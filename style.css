@@ -1,0 +1,108 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.header ul{
+    display: flex;
+    margin-left: 910px;
+    justify-content: space-between;
+    padding: 20px;
+    list-style: none;
+}
+
+.leaft-parent {
+    margin-left: 60px;
+    margin-top: 10px;
+}
+.leaft-parent p {
+    margin-top: 10px;
+}
+    
+
+.from {
+  margin-left: 60px;
+  margin-top: 20px;
+  width: 150px;
+  gap: 20px;
+}
+
+.maan-parent {
+    display: flex;
+    gap: 49px;
+    margin-left: 60px;
+    margin-top: 20px;
+}
+
+#text1 {
+    width: 210px;
+    height: 24px;
+    border-radius: 12px;
+    border: solid color blue;
+    border-color: rgb(153, 153, 250);
+    
+}
+
+#text2 {
+    width: 210px;
+    height: 24px;
+    border-radius: 12px;
+    border-color: rgb(160, 160, 245);
+
+}
+
+
+
+.maan-left p {
+    font-size: 10px;
+    color: rgb(162, 162, 248);
+}
+.saam {
+    margin-left: 50px;
+    margin-top: 20px;
+}
+
+.saam button{
+    width: 220px;
+    height: 25px;
+    border-radius: 12px;
+    margin-left: 10px;
+    background-color: rgb(126, 126, 250);
+    color: white;
+    border: none;
+    margin-bottom: 20px;
+    
+}
+
+.saam p {
+    margin-left: 60px;
+    
+}
+
+.saam img {
+    width: 50px;
+    height: 30px;
+    background-color: white;
+    margin-left: 20px;
+    margin-top: 30px;
+    
+
+}
+
+.saam-parent {
+    display: flex;
+    
+}
+
+.saam-rght img {
+    position: absolute;
+    top: 50px;
+    width: 500px;
+    height: 500px;
+    margin-left: 300px;
+}
+
+
+
+
+
